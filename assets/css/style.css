@@ -1,0 +1,22 @@
+section.hero-banner {
+    background-image: url(../images/study.jpg);
+    background-size: cover;
+    height:100vh;
+}
+section h1, p{
+    color:#F4F6d7;
+    text-align: center;
+}
+.container{
+    padding-top: 150px;
+}
+button a{
+    text-decoration: none;
+    color:#F4F6d7;
+}
+.card .btn{
+    width:100%;
+}
+.card input{
+    size:100%;
+}
